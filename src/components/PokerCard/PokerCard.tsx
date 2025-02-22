@@ -96,8 +96,8 @@ const Layout = styled.div`
   padding: 8px;
 
   color: var(--base-color);
-  min-width: 124px;
-  min-height: 220px;
+  width: 157px;
+  height: 220px;
 `;
 
 const CardInfo = styled.section`
